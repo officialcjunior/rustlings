@@ -4,10 +4,11 @@
 // I AM NOT DONE
 
 fn main() {
-    let x;
+    let x: u32 = 10;
     if x == 10 {
         println!("Ten!");
     } else {
         println!("Not ten!");
     }
 }
+
